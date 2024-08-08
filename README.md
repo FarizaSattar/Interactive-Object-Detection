@@ -1,4 +1,4 @@
-# Interactive Object Detection System
+# Interactive Object Detector
 
 ## Overview
 
